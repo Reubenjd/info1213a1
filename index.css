@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+#aboutme {
+    text-align:center;
+}
+
+.row{
+    height:150px;
+}
+
+#contactform {
+    text-align: center;
+}
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+    
+  }
+  
+body {
+    font-family: 'Roboto';
+    background-color: rgba(187,255,224,.4);
+    
+  }
+
+.jumbotron {
+    background: rgb(187,255,224);
+}
